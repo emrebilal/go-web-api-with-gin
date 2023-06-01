@@ -15,19 +15,12 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-# Jetbrains IDE folder
-/.idea/
+# Markdown files
+*.md
 
-# Local env files
-.env.*
+# Docker files
+docker-compose*.yaml
+Dockerfile
 
 # Swagger docs
-/docs/
-
-##
-## Visual Studio Code
-##
-.vscode/*
-
-# Docker compose file
-docker-compose.yaml
+docs/
