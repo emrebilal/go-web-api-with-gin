@@ -33,3 +33,5 @@ Go to the main folder directory of the repo and run it.
 docker-compose build
 docker-compose up
 ```
+### Swagger
+![swagger](https://github.com/emrebilal/go-web-api-with-gin/assets/46905124/66e1e78c-8726-49b0-be4b-72f76ae76919)
