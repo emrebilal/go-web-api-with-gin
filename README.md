@@ -1,4 +1,3 @@
-# RESTful web service API with Gin Framework and Swagger implementation
 ## Introduction
 This repo contains a some CRUD RESTful API running on the Gin Gonic HTTP server and using a PostgreSQL database.
 
