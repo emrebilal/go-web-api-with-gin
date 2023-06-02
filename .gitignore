@@ -28,6 +28,3 @@
 ## Visual Studio Code
 ##
 .vscode/*
-
-# Docker compose file
-docker-compose.yaml
